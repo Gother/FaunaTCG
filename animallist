@@ -1,0 +1,70 @@
+# NAME
+# RARITY
+# DISPLAY
+# HP
+# SPEED
+# ATTACK
+# ELEMENT
+# CLASS
+# FAMILY
+# SKILL
+A1{
+  NAME: Wolf
+  RARITY: Rare
+  DISPLAY: wolf.gif
+  HP: 3
+  SPEED: 2
+  ATTACK: 1
+  ELEMENT: Ice
+  CLASS: Lupus
+  FAMILY: Canis
+  SKILL: none
+}
+A2{
+  NAME: Seal
+  RARITY: Common
+  DISPLAY: seal.gif
+  HP: 3
+  SPEED: 1
+  ATTACK: 1
+  ELEMENT: Ice
+  CLASS: Lupus
+  FAMILY: Canis
+  SKILL: none
+}
+A3{
+  NAME: Penguin
+  RARITY: Rare
+  DISPLAY: penguin.gif
+  HP: 3
+  SPEED: 2
+  ATTACK: 1
+  ELEMENT: Ice
+  CLASS: Lupus
+  FAMILY: Canis
+  SKILL: none
+}
+A4{
+  NAME: Panda
+  RARITY: Rare
+  DISPLAY: panda.gif
+  HP: 3
+  SPEED: 2
+  ATTACK: 1
+  ELEMENT: Ice
+  CLASS: Lupus
+  FAMILY: Canis
+  SKILL: none
+}
+A5{
+  NAME: Rabbit
+  RARITY: Rare
+  DISPLAY: rabbit.gif
+  HP: 3
+  SPEED: 2
+  ATTACK: 1
+  ELEMENT: Ice
+  CLASS: Lupus
+  FAMILY: Canis
+  SKILL: none
+}
